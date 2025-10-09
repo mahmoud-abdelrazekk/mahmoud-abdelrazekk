@@ -42,20 +42,7 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
 </p>
 
----
 
-## 📊 GitHub Highlights  
-
-
----
-
-## 🏅 GitHub Trophies  
-
-
-
----
-
-## 🔥 GitHub Streak  
 
 
 ---
