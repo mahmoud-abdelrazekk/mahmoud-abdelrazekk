@@ -47,11 +47,6 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 
 ---
 
-## 🐍 Contribution Snake  
-
-
----
-
 ## 📬 Contact Me  
 
 <p align="center">
