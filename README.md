@@ -2,8 +2,7 @@
  
 📍 Alexandria, Egypt  
 
-📫 +201279947355 | [Gmail](mahmoudwarshana0@gmail.com) | [LinkedIn]([www.linkedin.com/in/mahmoud-abdelrazek-980066283])
-
+📫 +201279947355 | [Gmail](mailto:mahmoudwarshana0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahmoud-abdelrazek-980066283)
 
 ## 🎯 Objective  
  Junior **Data Scientist** with 6 months of hands-on experience in **data analysis and machine learning**. Skilled in developing and evaluating **regression, classification, and unsupervised** learning models using **Python** and libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn. Experienced in **data cleaning, data preprocessing, feature engineering, and handling issues like missing values, outliers, and imbalanced datasets**.
